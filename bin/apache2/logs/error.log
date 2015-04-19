@@ -1,0 +1,5 @@
+[Sun Apr 19 18:07:41.252979 2015] [mpm_winnt:notice] [pid 8792:tid 384] AH00455: Apache/2.4.6 (Win32) PHP/5.4.17 configured -- resuming normal operations
+[Sun Apr 19 18:07:41.252979 2015] [mpm_winnt:notice] [pid 8792:tid 384] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
+[Sun Apr 19 18:07:41.252979 2015] [core:notice] [pid 8792:tid 384] AH00094: Command line: 'E:\\htdocs\\Test Creator\\bin/apache2/bin/httpd_usbwv8.exe -d E:/htdocs/Test Creator/bin/apache2'
+[Sun Apr 19 18:07:41.271579 2015] [mpm_winnt:notice] [pid 8792:tid 384] AH00418: Parent: Created child process 8736
+[Sun Apr 19 18:07:41.976387 2015] [mpm_winnt:notice] [pid 8736:tid 400] AH00354: Child: Starting 64 worker threads.
